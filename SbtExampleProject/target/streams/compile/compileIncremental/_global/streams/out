@@ -1,0 +1,38 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 5 products, 2 sources, 2 libraries
+[debug] current source = Set(${BASE}/src/main/scala/example/main.scala, ${BASE}/src/main/scala/example/task_3.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(${BASE}/target/scala-3.3.6/classes/MainApp.class),Set(),API Changes: Set())
+[debug] 
+[debug] Initial source changes:
+[debug] 	removed: Set()
+[debug] 	added: Set()
+[debug] 	modified: Set()
+[debug] Invalidated products: Set(${BASE}/target/scala-3.3.6/classes/MainApp.class)
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set()
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set(${BASE}/src/main/scala/example/task_3.scala)
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set()
+[debug] All initially invalidated sources:Set(${BASE}/src/main/scala/example/task_3.scala)
+[debug] Initial set of included nodes: 
+[debug] compilation cycle 1
+[info] compiling 1 Scala source to D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes ...
+[debug] Returning already retrieved and compiled bridge: C:\Users\Admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-sbt-bridge\3.3.6\scala3-sbt-bridge-3.3.6.jar.
+[debug] [zinc] Running cached compiler 704475ee for Scala Compiler version 3.3.6
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-classpath
+[debug] 	D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes;C:\Users\Admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.6\scala3-library_3-3.3.6.jar;C:\Users\Admin\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16.jar
+[debug] Scala compilation took 7.3185832 s
+[info] done compiling
+[debug] New invalidations:
+[debug] Initial set of included nodes: 
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] Final step, transitive dependencies:
+[debug] 	Set()
+[debug] Initial set of included nodes: MainApp
+[debug] Invalidated macros due to upstream dependencies change: Set()
+[debug] No classes were invalidated.

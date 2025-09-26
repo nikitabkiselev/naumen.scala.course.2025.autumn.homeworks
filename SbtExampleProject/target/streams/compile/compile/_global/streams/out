@@ -1,0 +1,5 @@
+[error] -- [E161] Naming Error: D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\src\main\scala\main.scala:3:0 
+[error] 3 |@main
+[error]   |^
+[error]   |main$package is already defined as package object main$package in D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\src\main\scala\example\main.scala
+[error] one error found

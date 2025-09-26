@@ -1,0 +1,19 @@
+[debug] Packaging D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\sbtexampleproject_3-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	main$package$.class
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\main$package$.class
+[debug] 	main$package.class
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\main$package.class
+[debug] 	main$package.tasty
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\main$package.tasty
+[debug] 	MainApp$.class
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\MainApp$.class
+[debug] 	MainApp.class
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\MainApp.class
+[debug] 	MainApp.tasty
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\MainApp.tasty
+[debug] 	run.class
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\run.class
+[debug] 	run.tasty
+[debug] 	  D:\EDUCATION&SELFEDUCATION\NAUMEN\SCALA\SbtExampleProject\target\scala-3.3.6\classes\run.tasty
+[debug] Done packaging.
