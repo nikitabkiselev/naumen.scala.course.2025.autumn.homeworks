@@ -1,0 +1,15 @@
+Welcome to Scala 2.13.16 (Java HotSpot(TM) 64-Bit Server VM, Java 1.8.0_51).
+Type in expressions for evaluation. Or try :help.
+val developerName: String = Nikita Kiselev
+Hi, Scala! This is Nikita Kiselev
+val greetings: List[String] = List(Hola, Guten Tag)
+Hola, Scala!
+Guten Tag, Scala!
+val guestsNames: List[String] = List(Paul Jones, Jimmy Rogers, John Peterson, Helena Wang)
+def reverseEachWord(name: String): String
+val reversedGuestsNames: List[String] = List(luaP senoJ, ymmiJ sregoR, nhoJ nosreteP, aneleH gnaW)
+Welcome, luaP senoJ!
+Welcome, ymmiJ sregoR!
+Welcome, nhoJ nosreteP!
+Welcome, aneleH gnaW!
+      
